@@ -49,3 +49,9 @@ Options:
   -G [Gaussian Gain]     Enter Gaussian Gain dB, Range: 0 to 200  
   
   -O [GPS Outage]                Enter Outage Start Time and Stop Time, Example: -O 10,20 where 10 and 20 are in seconds
+
+# How to Install
+
+1. Go to GPS-SDR-SIM repositry and follow the installation instructions.
+2. After downloading the gps-sdr-sim repository and before installation, replace the files present in this code and compile the updated code using the gcc instructions given in gps-sdr-sim repository.
+3. Once done, use the scheme given above to test the different features.
